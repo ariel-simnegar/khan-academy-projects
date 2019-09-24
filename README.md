@@ -1,6 +1,6 @@
 # Ariel Simnegar's Khan Academy Projects
 
-Between [complex multiplayer platformer games](https://www.khanacademy.org/cs/_/4537466357219328) and [compiled programming languages built from scratch](https://www.khanacademy.org/cs/_/5449718509731840), Ariel's Khan Academy Projects serve as fun and instructive guides for those learning to code.
+Between [complex multiplayer platformer games](https://www.khanacademy.org/cs/_/4537466357219328) and [compiled programming languages built from scratch](https://www.khanacademy.org/cs/_/6010072603), Ariel's Khan Academy Projects serve as fun and instructive guides for those learning to code.
 
 ## Games
 ---
